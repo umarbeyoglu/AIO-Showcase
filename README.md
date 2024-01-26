@@ -2,6 +2,7 @@
 I haven't been contributing to this project more than 1 year so including factors have not been included:
 
 -Removed Security Headers from Both App and Server Settings To Not Give Any Exploits To Other Projects I Work
+(Will/Can Showcase Them In Interviews) 
 
 -SOLID Principles
 
