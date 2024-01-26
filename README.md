@@ -1,8 +1,12 @@
 # DEEP NOTE: 
 I haven't been contributing to this project more than 1 year so including factors have not been included:
+
 -SOLID Principles
+
 -Flutter&Dart Null Safety
+
 -Flutter Provider
+
 -Github Actions (CI&CD)
 
 ### 
