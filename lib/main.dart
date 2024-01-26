@@ -8,7 +8,7 @@ import 'colors.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   SharedPreferences prefs = await SharedPreferences.getInstance();
-  Stripe.publishableKey = 'pk_test_51KX7gOCtBvlhM0xo0Lz4Zsc2kRaQ4a8iqki9FxwnyEyEACrM9VbjPDdr2K2TIbAXbKgF2ucZrpvglaSqXGuxkU7e00T57oGaCi';
+  Stripe.publishableKey = 'KEYHERE';
   await Stripe.instance.applySettings();
   var email = prefs.getString('email');
   var password = prefs.getString('password');
