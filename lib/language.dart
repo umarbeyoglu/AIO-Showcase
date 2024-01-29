@@ -1,4 +1,4 @@
-import 'package:Welpie/repository.dart';
+import 'package:repository.dart';
 
 String addchoicest=languagest == 'EN' ? 'Add Choice':'';
 String addextendeddetailsst=languagest == 'EN' ? 'Add Extended Details':'';
