@@ -1,15 +1,15 @@
 import 'dart:async';
-import 'package:Welpie/language.dart';
-import 'package:Welpie/models/User_Model/user_model.dart';
-import 'package:Welpie/repository.dart';
-import 'package:Welpie/screens/Calendar_Screen/calendar_time_screen.dart';
-import 'package:Welpie/screens/General/create_article_screen.dart';
-import 'package:Welpie/screens/General/item_widget_screen.dart';
+import 'package:language.dart';
+import 'package:models/User_Model/user_model.dart';
+import 'package:repository.dart';
+import 'package:screens/Calendar_Screen/calendar_time_screen.dart';
+import 'package:screens/General/create_article_screen.dart';
+import 'package:screens/General/item_widget_screen.dart';
 import 'package:flutter/material.dart';
-import '../../colors.dart';
-import '../../models/Article_Model/article_model.dart';
-import '../../repository.dart';
-import 'package:Welpie/models/Article_Model/article_model.dart';
+import 'colors.dart';
+import '/models/Article_Model/article_model.dart';
+import 'repository.dart';
+import 'models/Article_Model/article_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 
