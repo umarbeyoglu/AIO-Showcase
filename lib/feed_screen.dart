@@ -1,4 +1,4 @@
-import 'package:untitled/models/Article_Model/article_model.dart';
+import 'package:models/Article_Model/article_model.dart';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
@@ -6,15 +6,15 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'dart:async';
 import 'package:http/http.dart' as http;
-import 'package:untitled/repository.dart';
-import 'package:untitled/models/User_Model/user_model.dart';
-import 'package:untitled/screens/General/details_screen.dart';
+import 'package:repository.dart';
+import 'package:models/User_Model/user_model.dart';
+import 'package:screens/General/details_screen.dart';
 import '../../colors.dart';
 
 
-import 'package:untitled/language.dart';
-import 'package:untitled/screens/General/home_screen.dart';
-import 'package:untitled/screens/Visited_Profile_Screen/visited_profile_screen.dart';
+import 'package:language.dart';
+import 'package:screens/General/home_screen.dart';
+import 'package:screens/Visited_Profile_Screen/visited_profile_screen.dart';
 
 import '../../models/Article_Model/article_tag_model.dart';
 import '../../models/User_Model/user_calendar_item_model.dart';
