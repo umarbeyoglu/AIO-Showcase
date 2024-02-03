@@ -48,15 +48,15 @@ Still developing since I started university education.
 
 -Implemented Grade A+ Security
 
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Article.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/DeliveryDetails.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Search1.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Search2.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/SearchBusiness.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Subusers.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Tools.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/BusinessProfile.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/CalendarTime.png "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Catalogue.jpg "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Calendar.png "Title")
-![alt text](https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Forms.png "Title")
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Article.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/DeliveryDetails.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Search1.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Search2.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/SearchBusiness.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Subusers.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Tools.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/BusinessProfile.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/CalendarTime.png" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Catalogue.jpg" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Calendar.png" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/AIO-Showcase/blob/main/images/Forms.png" width=50% height=50%>
