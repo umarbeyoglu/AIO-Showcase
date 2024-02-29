@@ -4,13 +4,14 @@ I haven't been contributing to this project more than 1 year so including factor
 -Removed Security Headers from Both App and Server Settings To Not Give Any Exploits To Other Projects I Work
 (Will/Can Showcase Them In Interviews) 
 
--SOLID Principles
+-MVVM Architecture
 
 -Flutter&Dart Null Safety
 
 -Flutter Provider
 
 -Github Actions (CI&CD)
+
 
 ### 
 This An app where I try to put all of the features on internet at one place with easy user interface and high security.
